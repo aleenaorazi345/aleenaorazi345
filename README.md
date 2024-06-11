@@ -1,7 +1,7 @@
-- 👋 Hi, I’m aleenaoraz!
-- 👀 I’m interested in learning new coding hacks
-- 🌱 I’m currently learning coding and new to it
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m aleenaorazi!
+- 👀 I’m interested in learning game development: )
+- 🌱 I’m currently learning oop and making small projects for implementation of concepts
+- 💞️ I’m looking to collaborate on small scale projects in c or c++...
 - 📫 reach me at aleenaorazi345@gmail.com
 
 <!---
