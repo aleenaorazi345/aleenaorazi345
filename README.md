@@ -1,6 +1,6 @@
 - 👋 Hi, I’m aleenaorazi!
-- 👀 I’m interested in learning game development: )
-- 🌱 I’m currently learning sql and making small projects for implementation of concepts
+  
+- 🌱 I’m currently learning game development and making small projects for implementation of concepts
 - 💞️ I’m looking to collaborate on small scale projects ...
 - 📫 reach me at aleenaorazi345@gmail.com
 
